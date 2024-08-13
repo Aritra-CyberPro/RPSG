@@ -5,7 +5,7 @@ This is a simple implementation of the classic game "Rock, Paper, Scissors" usin
 ## How to Play
 ## 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/Aritra-ISS/RPSG.git
+git clone https://github.com/Aritra-CyberPro/RPSG.git
 ```
 ## 2. Move to the directory
 ```
@@ -39,4 +39,4 @@ Contributions are welcome! If you'd like to add features, improve the code, or f
 If you have any feedback, suggestions, or issues, please feel free to open an issue on GitHub or contact [The Author](aritra.cso@linuxmail.org).
 
 ## Author
-[Aritra-ISS](https://github.com/Aritra-ISS/).
+[Aritra](https://github.com/Aritra-CyberPro/).
